@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: aquamarine;
+}
+.tab{
+    text-align: center;
+    margin-top: 30px;
+}
+form{
+    text-align: center;
+    margin-top: 50px;
+}
