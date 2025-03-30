@@ -21,3 +21,14 @@ button{
     margin-top: 10px;
     background-color: aquamarine;
 }
+ul{
+    /* justify-items: center; */
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    align-content: space-between;
+}
+nav{
+    background-color: azure;
+    padding: 20px;
+}
